@@ -1,0 +1,22 @@
+.odd {
+    background-color: lightpink;
+    font-family: 'Verdana', sans-serif;
+}
+
+.normal-font {
+    font-size: 24px;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+div {
+    font-family: Roboto, sans-serif;
+}
